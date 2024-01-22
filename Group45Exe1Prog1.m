@@ -1,4 +1,4 @@
-% Matthieu Ndumbi Lukuenya, 9217 
+
 
 %% Dataset : Seoul Bike Sharing Demand 'https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand' : SeoulBike.xlsx
 

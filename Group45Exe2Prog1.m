@@ -1,4 +1,4 @@
-% Matthieu Ndumbi Lukuenya, 9217
+
 
 %% Task 2
 %% Dataset : Seoul Bike Sharing Demand -> SeoulBike.xlsx
