@@ -70,5 +70,3 @@ end
     - Generally, there are high significant differences in bike rentals between seasons. 
     - However, it can be noted that bike rentals between seasons(Summer-Autumn) and between hours 6:00 - 10:00, there is a big drop in significant differences that could indicate a weak seasonal effect.
 %}
-
-
